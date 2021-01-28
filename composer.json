@@ -14,7 +14,10 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
         "laravel/tinker": "^2.5",
-        "laravel/ui": "^3.2"
+        "laravel/ui": "^3.2",
+        "yajra/laravel-datatables": "^1.5",
+        "yajra/laravel-datatables-html": "^4.36",
+        "yajra/laravel-datatables-oracle": "^9.15"
     },
     "require-dev": {
         "emielmolenaar/phpcs-laravel": "^2.0",

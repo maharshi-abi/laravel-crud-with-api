@@ -10,11 +10,13 @@
 ## Requirement
 - Install latest Composer
 - Install latest Node JS
+- Setup .env file
 
 ## Run Following Command
 - composer update
 - npm install
 - npm run dev
+- php artisan migrate:refresh --seed
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
