@@ -89,6 +89,7 @@ class HomeController extends Controller
             'searchDelay' => 350,
             'searching'   => true,
             'dom' => 'Bflrtip',
+            "lengthMenu" => [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
             'buttons' => [
                 'copyHtml5',
                 'excelHtml5',
